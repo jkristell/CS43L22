@@ -1,0 +1,8 @@
+[package]
+name = "cs43l22-dev"
+version = "0.1.0"
+authors = ["Johan Kristell <johan@jott.se>"]
+edition = "2018"
+
+[dependencies]
+embedded-hal = "0.2.3"
